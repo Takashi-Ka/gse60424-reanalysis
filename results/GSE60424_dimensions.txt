@@ -1,0 +1,14 @@
+Matrix dim: 50045 x 134
+Phenotype rows: 134
+
+--- Disease status ---
+
+             ALS  Healthy Control MS posttreatment  MS pretreatment           Sepsis 
+              21               28               20               19               20 
+ Type 1 Diabetes 
+              26 
+
+--- Cell type ---
+
+    B-cells         CD4         CD8   Monocytes Neutrophils          NK Whole Blood 
+         20          20          20          20          20          14          20 

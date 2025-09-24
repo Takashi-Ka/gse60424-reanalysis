@@ -1,0 +1,3 @@
+Monocytes	Before=50045	After0=16066	After=12986
+Neutrophils	Before=50045	After0=16825	After=13032
+Whole Blood	Before=50045	After0=18138	After=14324
