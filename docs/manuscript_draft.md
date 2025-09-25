@@ -63,6 +63,13 @@ In the present study, we reanalyzed GSE60424 with a focus on differential expres
 ---
 
 ## Monocytes
+<!-- BEGIN: Monocytes_Figure_Refs -->
+
+Differential expression analysis identified significant changes in Monocytes **(Figure 1)**.
+GO biological process enrichment highlighted interferon-related pathways **(Figure 2)**.
+KEGG analysis further confirmed enrichment of immune and signaling pathways **(Figure 3)**.
+
+<!-- END: Monocytes_Figure_Refs -->
 - 有意（padj < 0.05）に富む経路は、主に免疫応答・感染関連経路。
 - 特に「Fcγ受容体依存性食作用（REACTOME_FCGAMMA_RECEPTOR_FCGR_DEPENDENT_PHAGOCYTOSIS）」が最も強く有意（padj = 9.11e-04）。
 - 寄生虫感染（Leishmaniaなど）、I型インターフェロンシグナル経路、Rho GTPase関連経路も検出され、単球の病原体応答や細胞骨格再構築が示唆される。
