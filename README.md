@@ -267,3 +267,9 @@ Rscript scripts/03_DE_limma_by_celltype.R
 
 6. **Whole Bloodの解釈**  
    - 多細胞種混合のため、リボソーム関連の富化は構成比変動・系統的バイアスの影響があり得る。
+
+## Citation
+
+If you use this pipeline, please cite:
+Kajitani T. (2025). GSE60424 reanalysis pipeline (Phase 1).  
+https://doi.org/10.5281/zenodo.17196511	
