@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "GSE60424 reanalysis pipeline (Phase 1)"
+authors:
+  - family-names: Kajitani
+    given-names: Takashi
+repository-code: "https://github.com/Takashi-Ka/gse60424-reanalysis"
+doi: "10.5281/zenodo.17196512"   # ← ZenodoのDOIに置換
+version: "v1.0-phase1"
+date-released: "2025-09-25"
+preferred-citation:
+  type: dataset
+  title: "GSE60424 reanalysis pipeline (Phase 1)"
+  authors:
+    - family-names: Kajitani
+      given-names: Takashi
+  doi: "10.5281/zenodo.17196512"  # ← 置換
+  year: 2025
