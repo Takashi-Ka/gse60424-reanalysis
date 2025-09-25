@@ -120,3 +120,23 @@ Zenodo (Phase 1 release): https://doi.org/xxxxx  （実際のDOIを挿入）
 
 # References
 (必要に応じて後で整備)
+
+<!-- BEGIN: Monocytes_Figure_Legends -->
+## Figure legends
+
+**Figure 1. Volcano plot of differential expression in Monocytes (Sepsis vs Healthy Controls).**  
+Volcano plot showing differentially expressed genes (DEGs) in Monocytes between sepsis patients and healthy controls.  
+The x-axis represents log2 fold change and the y-axis represents –log10 adjusted p-value (FDR).  
+Significant DEGs (FDR < 0.05) are highlighted.
+
+**Figure 2. GO biological process enrichment in Monocytes (Sepsis vs Healthy Controls).**  
+Dot plot of enriched Gene Ontology biological process (GO BP) terms for DEGs in Monocytes.  
+Dot size reflects the number of DEGs annotated to each term, and color represents adjusted p-value.  
+Enrichment analysis was performed using clusterProfiler with all detected genes as background.
+
+**Figure 3. KEGG pathway enrichment in Monocytes (Sepsis vs Healthy Controls).**  
+Dot plot of enriched KEGG pathways for DEGs in Monocytes.  
+Top significantly enriched pathways are displayed, with dot size corresponding to the number of DEGs and color to adjusted p-value.  
+Pathway enrichment was performed using clusterProfiler with FDR < 0.05 as significance threshold.
+<!-- END: Monocytes_Figure_Legends -->
+
